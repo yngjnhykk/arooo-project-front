@@ -1,0 +1,19 @@
+{
+  "library": [
+    {
+      "id": "abcd0123efgh456",
+      "title": "콘텐츠 타이틀",
+      "likes": 1
+    },
+    {
+      "id": "123efgh456abcd0",
+      "title": "콘텐츠 타이틀",
+      "likes": 3
+    },
+    {
+      "id": "gh456abcd0123ef",
+      "title": "콘텐츠 타이틀",
+      "likes": 0
+    }
+  ]
+}
